@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm S Adithya Nachiyappan</h1>
-<h3 align="center">I'm a sophomore in Information Technology from Vellore Institute of Technology , India. I am passionate about AI/ML and have a few projects on my own. Looking to get into Backend and DSA sometime in the near future . Always up for a collaboration on projects</h3>
+<h1 align="center"> Sophomore - VIT Vellore - Information Technology </h1>
+<h3 align="center"> AI | ML | Backend | NLP </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachi2006&label=Profile%20views&color=0e75b6&style=flat" alt="nachi2006" /> </p>
 
